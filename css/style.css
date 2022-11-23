@@ -1,0 +1,11 @@
+.page-content {
+	display: flex;
+}
+
+.wrapper {
+	width: 80%;
+}
+
+.aside {
+	width: 20%;
+}
